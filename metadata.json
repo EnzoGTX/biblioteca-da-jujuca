@@ -1,0 +1,6 @@
+{
+  "name": "Julia Fraga: A Biblioteca Encantada",
+  "description": "Jogo indie 2D de fantasia cristã, alegorias da fé e organização no Santuário de Parábolas com a protagonista Julia Fraga e trilha sonora acústica sacra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
